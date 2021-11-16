@@ -21,6 +21,7 @@ const Router = () => {
                         title: "GO-JEK",
                         headerTitleStyle: Tailwind.style(`text-white`),
                         headerStyle: Tailwind.style("bg-green-400"),
+                        headerBackVisible: false
                     }
                 }
             >
